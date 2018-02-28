@@ -1,3 +1,8 @@
+## 0.2.1:
+- Generala Forumo screen
+- 1 post on said screen
+- Ability to get to said screen from main page
+
 ## 0.2.0:
 - 3 new words with associated events
 - Help screen, with two buttons
