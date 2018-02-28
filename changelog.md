@@ -1,3 +1,9 @@
+## 0.2.0:
+- 3 new words with associated events
+- Help screen, with two buttons
+- New buttons that will have functions later
+- Fix the Sapphire - True bug
+
 ## 0.1.0:
 - Add the link function
 - Add the website and its format
