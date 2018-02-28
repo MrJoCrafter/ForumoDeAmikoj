@@ -1,3 +1,12 @@
+## 0.1.0:
+- Add the link function
+- Add the website and its format
+- Add structure for notifications
+- Add 4 types of notifications
+- Add 4 events to get words
+- Add 7 words
+- Add translate feature
+
 ## 0.0.2:
 - Fix the response structure
 - Add 17 new lines to the intro conversation
