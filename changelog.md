@@ -1,3 +1,7 @@
+## 0.2.3:
+- Add a save system
+- Add two save points
+- Fix some bugs related to app stability
 
 ## 0.2.2:
 - Stablize Generala Forumo (ah jeez rick)
