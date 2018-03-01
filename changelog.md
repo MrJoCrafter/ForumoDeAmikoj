@@ -1,3 +1,8 @@
+
+## 0.2.2:
+- Stablize Generala Forumo (ah jeez rick)
+- Add one new word in generala forumo, meaning total is now 11
+
 ## 0.2.1:
 - Generala Forumo screen
 - 1 post on said screen
