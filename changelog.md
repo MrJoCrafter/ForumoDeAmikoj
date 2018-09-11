@@ -1,3 +1,9 @@
+## 0.3.0: 
+- Profile 
+- New save point
+- Add some translation 
+- Add one new word
+
 ## 0.2.3:
 - Add a save system
 - Add two save points
