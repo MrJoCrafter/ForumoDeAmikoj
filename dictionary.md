@@ -11,3 +11,4 @@
 |general|ĝenerala| Open "Generala Forumo" while on esperanto | "esperanto" |
 |languages|lingvoj| Click on the left button below the first forum while on esperanto | "esperanto" |
 |love|amo/amas| Open the post "dankon" in "Generala Forumo" while on esperanto | "esperanto" |
+|level|nivelo| Open your Profile | "esperanto" "general" |
